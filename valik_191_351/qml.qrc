@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>../../Users/1/Новая папка/Загрузки/stop-button.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/play-button.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/pause.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/loupe.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/youtube (1).png</file>
+        <file>../../Users/1/Новая папка/Загрузки/menu.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/sample.mp4</file>
+        <file>Page3Form.qml</file>
+        <file>Page4Form.qml</file>
+        <file>../../Users/1/Новая папка/Загрузки/photo-camera.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/video-camera.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/cam.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/v_cam.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/new_stop.png</file>
+        <file>../../Users/1/Новая папка/Загрузки/new_play.png</file>
+        <file>Page5Form.qml</file>
+        <file>Page6Form.qml</file>
+    </qresource>
+</RCC>
